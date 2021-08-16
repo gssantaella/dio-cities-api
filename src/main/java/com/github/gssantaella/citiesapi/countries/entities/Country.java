@@ -1,4 +1,4 @@
-package com.github.gssantaella.citiesapi.countries;
+package com.github.gssantaella.citiesapi.countries.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

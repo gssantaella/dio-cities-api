@@ -1,7 +1,7 @@
-package com.github.gssantaella.citiesapi;
+package com.github.gssantaella.citiesapi.countries.resources;
 
-import com.github.gssantaella.citiesapi.countries.Country;
-import com.github.gssantaella.citiesapi.repository.CountryRepository;
+import com.github.gssantaella.citiesapi.countries.entities.Country;
+import com.github.gssantaella.citiesapi.countries.repositories.CountryRepository;
 import java.util.Optional;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
